@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d26cf0c4-17c3-4f17-a934-1aa5edbbde78" name="Changes" comment="currnecy is now working" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Spiderasasen&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Spiderasasen/Converter-app.git&quot;,
+    &quot;accountId&quot;: &quot;450e9d2e-3972-4155-af65-ec67b084ec0f&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AqUtvB44qakHQLkVfzBH6fhUkD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.localhost:5173.executor": "Debug",
+    "JavaScript Debug.localhost:8081.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "new-screen-function",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/home/spiderasasen/Documents/web_base/Converter-app",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/home/spiderasasen/Documents/web_base/Converter-app/Converter_Expo/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Converter_Expo/app" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.localhost:5173">
+    <configuration name="localhost:5173" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:5173/">
+      <method v="2" />
+    </configuration>
+    <configuration name="localhost:8081" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:8081">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.localhost:5173" />
+        <item itemvalue="JavaScript Debug.localhost:8081" />
+        <item itemvalue="JavaScript Debug.localhost:8081" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.30387.83" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d26cf0c4-17c3-4f17-a934-1aa5edbbde78" name="Changes" comment="" />
+      <created>1773319811721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773319811721</updated>
+      <workItem from="1773319812905" duration="3954000" />
+      <workItem from="1773402876484" duration="3020000" />
+      <workItem from="1773586281856" duration="6487000" />
+      <workItem from="1773748134243" duration="4996000" />
+      <workItem from="1773769453864" duration="385000" />
+    </task>
+    <task id="LOCAL-00001" summary="making a simple layout and also removeing the bar from the navigation system">
+      <option name="closed" value="true" />
+      <created>1773403662020</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1773403662020</updated>
+    </task>
+    <task id="LOCAL-00002" summary="before i make some search engine system">
+      <option name="closed" value="true" />
+      <created>1773404010449</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1773404010449</updated>
+    </task>
+    <task id="LOCAL-00003" summary="making the main section have all the counties with there repected flags">
+      <option name="closed" value="true" />
+      <created>1773589235644</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1773589235644</updated>
+    </task>
+    <task id="LOCAL-00004" summary="making 2 counteris now">
+      <option name="closed" value="true" />
+      <created>1773589871999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1773589871999</updated>
+    </task>
+    <task id="LOCAL-00005" summary="made a little adjustment">
+      <option name="closed" value="true" />
+      <created>1773590338998</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773590338998</updated>
+    </task>
+    <task id="LOCAL-00006" summary="made the change of screen.&#10;fucking hell the problem was no fucking color">
+      <option name="closed" value="true" />
+      <created>1773592181583</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1773592181583</updated>
+    </task>
+    <task id="LOCAL-00007" summary="it works&#10;information from where the user comes from, can be converted to the user's selected countery">
+      <option name="closed" value="true" />
+      <created>1773592534291</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1773592534291</updated>
+    </task>
+    <task id="LOCAL-00008" summary="currnecy is now working">
+      <option name="closed" value="true" />
+      <created>1773750499496</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1773750499497</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="making a simple layout and also removeing the bar from the navigation system" />
+    <MESSAGE value="before i make some search engine system" />
+    <MESSAGE value="making the main section have all the counties with there repected flags" />
+    <MESSAGE value="making 2 counteris now" />
+    <MESSAGE value="made a little adjustment" />
+    <MESSAGE value="made the change of screen.&#10;fucking hell the problem was no fucking color" />
+    <MESSAGE value="it works&#10;information from where the user comes from, can be converted to the user's selected countery" />
+    <MESSAGE value="currnecy is now working" />
+    <option name="LAST_COMMIT_MESSAGE" value="currnecy is now working" />
+  </component>
+</project>
